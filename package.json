@@ -19,6 +19,7 @@
   ],
   "dependencies": {
     "async": "~1.0.0",
+    "circular-json": "^0.3.3",
     "colors": "1.0.x",
     "cycle": "1.0.x",
     "eyes": "0.1.x",
